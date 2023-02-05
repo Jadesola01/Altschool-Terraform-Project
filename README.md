@@ -49,7 +49,7 @@ craeting an Application load balancer, Ec2 instances, and an A record on Route53
 
 ### A records created by terraform 
 
-![A records ](https://user-images.githubusercontent.com/102290896/216830530-dd62e95a-cabc-4fb5-84c1-9e76d62dc74f.png)
+![A records ](https://user-images.githubusercontent.com/102290896/216830674-b82cb260-5f68-47ad-b452-fd00c182a8f3.png)
 
 
 
