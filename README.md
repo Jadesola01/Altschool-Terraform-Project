@@ -23,6 +23,11 @@ craeting an Application load balancer, Ec2 instances, and an A record on Route53
 
 ![Network ACL](https://user-images.githubusercontent.com/102290896/216829683-8c8b2465-2811-40d4-829e-cfe38dddf47f.png)
 
+### Creating a security group for the load balancer
+
+![project-lb](https://user-images.githubusercontent.com/102290896/216829775-08a15a3d-1f8f-49c7-b995-d5ccd7f9f26d.jpeg)
+
+
 
 
 
