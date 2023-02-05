@@ -35,6 +35,11 @@ craeting an Application load balancer, Ec2 instances, and an A record on Route53
 
 ![Ec2 instances](https://user-images.githubusercontent.com/102290896/216830015-4597c542-2c61-4e27-8b61-54072e04f108.jpeg)
 
+### Creating the Application load balancer
+
+![project-lb](https://user-images.githubusercontent.com/102290896/216830097-c7402a14-1e46-408b-8b02-d26a2757a3a9.jpeg)
+
+
 
 
 
