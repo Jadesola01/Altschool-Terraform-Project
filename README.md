@@ -7,7 +7,8 @@ craeting an Application load balancer, Ec2 instances, and an A record on Route53
 
 ### Creating the Internet gateway 
 
-![Internet Gateway](![VPC-IGW](https://user-images.githubusercontent.com/102290896/216829316-1e56997c-68c5-4137-a951-8cd89e357d51.png))
+![VPC-IGW](https://user-images.githubusercontent.com/102290896/216829524-d551be9a-5e76-4fb3-a0b2-94dc115dc0cc.png)
+
 
 ### Subnet Route Tables
 
