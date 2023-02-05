@@ -27,6 +27,11 @@ craeting an Application load balancer, Ec2 instances, and an A record on Route53
 
 ![LB-SG](https://user-images.githubusercontent.com/102290896/216829834-ed5b6ebb-b5a5-442f-864c-be8b5264894e.jpeg)
 
+### Creating security groups to allow SSH, HTTP, and, HTTPS ports 
+
+![SG to allow ports 22, 80,   443](https://user-images.githubusercontent.com/102290896/216829953-2688c539-d200-48fb-af79-8f83a28014a4.png)
+
+
 
 
 
