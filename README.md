@@ -39,6 +39,11 @@ craeting an Application load balancer, Ec2 instances, and an A record on Route53
 
 ![project-lb](https://user-images.githubusercontent.com/102290896/216830097-c7402a14-1e46-408b-8b02-d26a2757a3a9.jpeg)
 
+### Creating and attaching the target groups to the loadd balancer 
+
+![Target-group](https://user-images.githubusercontent.com/102290896/216830214-6ee762c7-ddb7-489a-9c69-324324fe8661.jpeg)
+
+
 
 
 
