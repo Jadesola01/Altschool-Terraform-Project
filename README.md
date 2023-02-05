@@ -52,6 +52,11 @@ craeting an Application load balancer, Ec2 instances, and an A record on Route53
 
 ![A records ](https://user-images.githubusercontent.com/102290896/216830674-b82cb260-5f68-47ad-b452-fd00c182a8f3.png)
 
+### Server-1 Ip address 
+
+![Server-1 Ip ](https://user-images.githubusercontent.com/102290896/216831108-32f25765-8dde-413a-942a-70fea28f96d7.png)
+
+
 
 
 
