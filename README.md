@@ -43,6 +43,11 @@ craeting an Application load balancer, Ec2 instances, and an A record on Route53
 
 ![Target-group](https://user-images.githubusercontent.com/102290896/216830214-6ee762c7-ddb7-489a-9c69-324324fe8661.jpeg)
 
+### craeting hosted zone
+
+![hosted-zone ](https://user-images.githubusercontent.com/102290896/216830475-940382a8-cc91-4cf1-936d-a520905e1f0a.png)
+
+
 
 
 
