@@ -31,6 +31,11 @@ craeting an Application load balancer, Ec2 instances, and an A record on Route53
 
 ![SG to allow ports 22, 80,   443](https://user-images.githubusercontent.com/102290896/216829953-2688c539-d200-48fb-af79-8f83a28014a4.png)
 
+### Creating 3 Ec2 instances 
+
+![Ec2 instances](https://user-images.githubusercontent.com/102290896/216830015-4597c542-2c61-4e27-8b61-54072e04f108.jpeg)
+
+
 
 
 
