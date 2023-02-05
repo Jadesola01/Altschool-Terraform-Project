@@ -19,6 +19,11 @@ craeting an Application load balancer, Ec2 instances, and an A record on Route53
 
 ![vpc-subnets](https://user-images.githubusercontent.com/102290896/216829637-951d2d23-bbf7-4f1f-8d52-c49455b92a9c.png)
 
+### creating Network ACL
+
+![Network ACL](https://user-images.githubusercontent.com/102290896/216829683-8c8b2465-2811-40d4-829e-cfe38dddf47f.png)
+
+
 
 
 
