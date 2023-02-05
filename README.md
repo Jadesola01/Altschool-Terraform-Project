@@ -5,6 +5,13 @@ craeting an Application load balancer, Ec2 instances, and an A record on Route53
 
 ![project vpc](![project-vpc](https://user-images.githubusercontent.com/102290896/216829155-cade3066-e394-4dc3-ba2f-c24595156731.jpeg))
 
+### Creating the Internet gateway 
+
+![Internet Gateway](![VPC-IGW](https://user-images.githubusercontent.com/102290896/216829316-1e56997c-68c5-4137-a951-8cd89e357d51.png))
+
+
+
+
 
 
 
